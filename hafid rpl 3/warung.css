@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header nav ul{
+    margin-left: 800px;
+    margin-top: 5px;
+
+}
+header nav {
+    display: flex;
+}
